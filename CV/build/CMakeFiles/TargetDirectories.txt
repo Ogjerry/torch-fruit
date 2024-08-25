@@ -1,0 +1,5 @@
+/home/zirui/Desktop/cu/CV/build/CMakeFiles/cam.dir
+/home/zirui/Desktop/cu/CV/build/CMakeFiles/mv.dir
+/home/zirui/Desktop/cu/CV/build/CMakeFiles/fp.dir
+/home/zirui/Desktop/cu/CV/build/CMakeFiles/edit_cache.dir
+/home/zirui/Desktop/cu/CV/build/CMakeFiles/rebuild_cache.dir
