@@ -43,7 +43,6 @@ const double min_learning_rate = 0.00001;
 
 
 
-
 // Random number generator initialization
 std::default_random_engine generator;
 
@@ -659,8 +658,8 @@ int main() {
 
 
     // read validation and training data
-    std::string baseDirectory = "/home/zirui/Desktop/cu/CV/fruits-360_dataset/fruits-360/Training";
-    std::string testDirectory = "/home/zirui/Desktop/cu/CV/fruits-360_dataset/fruits-360/Test";
+    std::string baseDirectory = "/home/zirui/Desktop/tf/CV/fruits-360_dataset/fruits-360/Training";
+    std::string testDirectory = "/home/zirui/Desktop/tf/CV/fruits-360_dataset/fruits-360/Test";
 
     std::vector<ImageData> imagesData = readImagesFromDirectory(baseDirectory);
     std::vector<ImageData> testData = readImagesFromDirectory(testDirectory);

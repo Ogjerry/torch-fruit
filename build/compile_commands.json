@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/zirui/Desktop/tf/build",
+  "command": "/usr/bin/g++ -DUSE_C10D_GLOO -DUSE_C10D_NCCL -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/usr/local/cuda-12.6/include -isystem /usr/local/include/opencv4 -isystem /usr/local/lib/libtorch/include -isystem /usr/local/lib/libtorch/include/torch/csrc/api/include -fvisibility-inlines-hidden -std=c++17 -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/zirui/anaconda3/include -D_GLIBCXX_USE_CXX11_ABI=1 -g -std=gnu++20 -D_GLIBCXX_USE_CXX11_ABI=1 -o CMakeFiles/mv.dir/make_validation.cc.o -c /home/zirui/Desktop/tf/CV/make_validation.cc",
+  "file": "/home/zirui/Desktop/tf/CV/make_validation.cc",
+  "output": "CMakeFiles/mv.dir/make_validation.cc.o"
+},
+{
+  "directory": "/home/zirui/Desktop/tf/build",
+  "command": "/usr/bin/g++ -DUSE_C10D_GLOO -DUSE_C10D_NCCL -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/usr/local/cuda-12.6/include -isystem /usr/local/include/opencv4 -isystem /usr/local/lib/libtorch/include -isystem /usr/local/lib/libtorch/include/torch/csrc/api/include -fvisibility-inlines-hidden -std=c++17 -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/zirui/anaconda3/include -D_GLIBCXX_USE_CXX11_ABI=1 -g -std=gnu++20 -D_GLIBCXX_USE_CXX11_ABI=1 -fopenmp -o CMakeFiles/fp.dir/forward_prop.cc.o -c /home/zirui/Desktop/tf/CV/forward_prop.cc",
+  "file": "/home/zirui/Desktop/tf/CV/forward_prop.cc",
+  "output": "CMakeFiles/fp.dir/forward_prop.cc.o"
+}
+]
